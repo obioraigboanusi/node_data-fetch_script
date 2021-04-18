@@ -1,5 +1,5 @@
 # NodeJS File System Task
-##Zuri Internship 2021
+## Zuri Internship 2021
 This is a task to test the understanding of NodeJS file system modeule. The instructions for the task are given as follows:
 
 <ol>
@@ -9,4 +9,5 @@ This is a task to test the understanding of NodeJS file system modeule. The inst
 <li>Create a github repository and push your work.</li>
 </ol>
 
-Task was assigned by ###BUKA
+Task was assigned by:
+### BUKA
